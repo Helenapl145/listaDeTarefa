@@ -26,8 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
 
 ## 💻 Projeto
 
-Projeto criado para aprimorar o estudo nas principais tecnologias do desenvolvimento WEB.
-  <a href="https://node-do-zero-5yuv.onrender.com/](https://helenapl145.github.io/listaDeTarefa/" target="_blank"> Visite o projeto</a>
+Projeto criado para aprimorar o estudo nas principais tecnologias do desenvolvimento WEB. <br>
+  <a href="https://node-do-zero-5yuv.onrender.com/](https://helenapl145.github.io/listaDeTarefa/"> Visite o projeto</a>
 
 ## :memo: Licença
 
@@ -35,4 +35,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Helena Lima :wave: [Meu Portifólio:]([https://discord.gg/rocketseat](https://portifolio-principal-three.vercel.app/)https://portifolio-principal-three.vercel.app/)
+Feito com ♥ by Helena Lima :wave: <a href="https://portifolio-principal-three.vercel.app/)https://portifolio-principal-three.vercel.app" > acesse meu portifólio </a>
