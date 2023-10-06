@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
 
 Projeto criado para aprimorar o estudo nas principais tecnologias do desenvolvimento WEB.
 
-- [Visite o projeto online](https://node-do-zero-5yuv.onrender.com/)
+- [Visite o projeto online]([https://node-do-zero-5yuv.onrender.com/](https://helenapl145.github.io/listaDeTarefa/))
 
 ## :memo: Licença
 
